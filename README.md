@@ -1,1 +1,1 @@
-# .github
+# Dzajlopment / LordPrinzTeam
