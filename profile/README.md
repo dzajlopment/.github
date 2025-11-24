@@ -1,12 +1,14 @@
-## Hi there 👋
+# dzajlopment
 
-<!--
+dzajlopment is a small creator group working on various digital projects — from simple tools to more complex applications. This repository serves as a space for organizing code, ideas, and experiments.
 
-**Here are some ideas to get you started:**
+## Contents
+- projects and prototypes  
+- small utilities  
+- visual identity elements  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Style
+We focus on clean structure, minimal design, and readable code.
+
+## Purpose
+A shared place to develop, store, and document our projects.
