@@ -1,4 +1,4 @@
-# Dzajlopment
+# Dzajlopment 🥚
 
 Dzajlopment is a small creator group working on various digital projects — from simple tools to more complex applications. This repository serves as a space for organizing code, ideas, and experiments.
 
